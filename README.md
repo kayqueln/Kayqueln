@@ -1,9 +1,9 @@
-  Kayque Lima Nunes ou só Kay &nbsp; 😀 
+  Kayque Lima Nunes ou só Kay :)
 
 - 🔭 Estudo e me interesso por back-end
 - 🌱 Atualmente estou aprendendo PHP,  JAVA e MYSQl
 - 📫 Contatos: kayqueln@gmail.com ou kayquenunes6@gmail.com
-- ⚡ Meu maior divertimento é escutar e descobrir músicas novas :)
+- ⚡ O que eu mais gosto de fazer é escutar e descobrir músicas novas
 
  <br/><br/>
 
