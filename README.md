@@ -1,14 +1,18 @@
+  Kayque Lima Nunes ou só Kay 😀 
+
 - 🔭 Estudo e me interesso por back-end
 - 🌱 Atualmente estou aprendendo PHP,  JAVA e MYSQl
 - 📫 Contatos: kayqueln@gmail.com ou kayquenunes6@gmail.com
 - ⚡ Meu maior divertimento é escutar e descobrir músicas novas :)
 
+ <br/><br/>
+
 <div align="center">
   <a href="https://github.com/kayqueln">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayqueln&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayqueln&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kayqueln&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayqueln&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Kay-Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Kay-PHP" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
