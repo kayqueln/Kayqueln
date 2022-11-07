@@ -21,4 +21,4 @@
 
   ##
   
-  ![Snake animation](https://github.com/kayqueln/kayuqeln/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/kayqueln/kayqueln/blob/output/github-contribution-grid-snake.svg)
