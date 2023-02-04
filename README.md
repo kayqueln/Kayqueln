@@ -3,7 +3,6 @@
 - 🔭 Estudo e me interesso por back-end
 - 🌱 Estou aberto a aprender novas tecnologias e linguagens de programação
 - 📫 Contatos: kayqueln@gmail.com ou kayquenunes6@gmail.com
-- ⚡ O que eu mais gosto de fazer é escutar e descobrir músicas novas
 
  <br/><br/>
 
