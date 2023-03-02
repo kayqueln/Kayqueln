@@ -1,6 +1,6 @@
   Kayque Lima Nunes ou só Kay :)
 
-- 🔭 Estudo e me interesso por back-end
+- 🔭 Full Stack
 - 🌱 Estou aberto a aprender novas tecnologias e linguagens de programação
 - 📫 Contatos: kayqueln@gmail.com ou kayquenunes6@gmail.com
 
