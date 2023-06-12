@@ -2,7 +2,7 @@
 
 - 🔭 Full Stack
 - 🌱 Estou aberto a aprender novas tecnologias e linguagens de programação
-- 📫 Contatos: kayqueln@gmail.com ou kayquenunes6@gmail.com
+- 📫 Contatos: kayqueln@gmail.com ou kayquelima546@gmail.com
 
  <br/><br/>
 
