@@ -1,7 +1,7 @@
   Kayque Lima Nunes ou só Kay :)
 
-- 🔭 Full Stack
-- 🌱 Estou aberto a aprender novas tecnologias e linguagens de programação
+- 🔭 Arquitetura de Tecnologia
+- 🌱 Estou aberto a aprender novas tecnologias e linguagens o tempo todo!
 - 📫 Contatos: kayqueln@gmail.com ou kayquelima546@gmail.com
 
  <br/><br/>
